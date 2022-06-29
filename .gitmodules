@@ -53,8 +53,7 @@
 	url = https://github.com/di-effe/catppuccin
 [submodule "Molese"]
 	path = Molese
-	url = https://github.com/m0lese/leftwm-config
-	branch = prime
+	url = https://github.com/mautamu/molese
 [submodule "Bumblebee"]
 	path = Bumblebee
 	url = https://github.com/mfdorst/leftwm-bumblebee/
@@ -64,6 +63,18 @@
 [submodule "space_jelly"]
 	path = space_jelly
 	url = https://gitlab.com/jchand99/space_jelly
+[submodule "leftwm-sunflower"]
+	path = leftwm-sunflower
+	url = https://github.com/mautamu/leftwm-sunflower/
 [submodule "doublebar"]
 	path = doublebar
 	url = https://github.com/PeterDauwe/doublebar/
+[submodule "ascent"]
+  path = ascent
+  url = https://gitlab.com/mWalrus/ascent
+[submodule "zexanima-leftwm-theme"]
+	path = zexanima-leftwm-theme
+	url = https://github.com/calebgasser/zexanima-leftwm-theme.git
+[submodule "minimal_solarized"]
+	path = minimal_solarized
+	url = https://github.com/minda1975/minimal_solarized
